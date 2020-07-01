@@ -7,4 +7,5 @@ but the arguments are optional. The StdDraw.java and Person.java files are both 
 program to run. You can run the program by typing the following into the command line ...
 
 `javac Simulation.java`
+
 `java Simulation <number_of_people> <number_of_sick> <rate_of_infection> <percent_of_people_staying_in_place> <delay_between_frames>`
